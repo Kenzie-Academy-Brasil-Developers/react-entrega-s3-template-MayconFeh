@@ -6,7 +6,6 @@ import { useEffect, useState } from "react"
 import { Modal } from "./components/Modal/Index"
 
 
-
 export const App = () => {
 
   const [isOpen , setIsOpen] = useState(false)
