@@ -1,5 +1,5 @@
 import { Reset } from "./styles/reset"
-import { GlobalStyles } from "./styles/globalstyle"
+import { GlobalStyles } from "./styles/globalStyle"
 import { Header } from "./components/Header/Index"
 import { List } from "./components/List/Index"
 import { useEffect, useState } from "react"
